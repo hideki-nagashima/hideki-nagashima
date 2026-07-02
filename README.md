@@ -1,16 +1,18 @@
-# Hi, I'm Hideki Nagashima 👋
+# Hi, I'm Hideki Nagashima
 
 AIネイティブなフルスタックエンジニアとして、企業の業務にAIをどう組み込み、継続的に使える仕組みにするかを設計・開発しています。
 
-営業、会社経営、資金調達、DX推進、AI SaaS開発を経験し、現在は **Enterprise AI / RAG / Context Engineering / AI Governance** を中心に取り組んでいます。
+営業、会社経営、資金調達、DX推進、AI SaaS開発を経て、現在は **Enterprise AI / RAG / Context Engineering / AI Governance** を中心に取り組んでいます。
 
-I design and build enterprise AI systems that connect business strategy, product execution, and full stack engineering.
+このGitHubは、求人・転職活動向けの個人ポートフォリオとして整理しています。Trust OSの法人アカウントとは切り分け、個人としての設計・開発の考え方が伝わるようにしています。
+
+I design and build enterprise AI systems that connect business context, product execution, and full stack engineering.
 
 ---
 
 ## 現在取り組んでいること / What I'm Working On
 
-- 日本企業向けの **Enterprise RAG Platform** の設計
+- 企業向けの **Enterprise RAG Platform** の設計
 - AI導入時に必要な **権限管理・監査ログ・Human in the Loop** の設計
 - 業務文脈をAIが扱える形に整理する **Context Engineering**
 - AI SaaS / AI Agent / DX・AX推進に関するプロダクト設計
@@ -63,11 +65,11 @@ I design and build enterprise AI systems that connect business strategy, product
 
 ### [Enterprise RAG Platform](https://github.com/hideki-nagashima/enterprise-rag-platform)
 
-日本企業向けの **Governance-first Enterprise RAG / AX基盤** のリファレンスアーキテクチャです。
+企業の業務利用を想定した **Governance-first Enterprise RAG / AX基盤** のリファレンスアーキテクチャです。
 
-このリポジトリでは、RAGの検索・生成だけでなく、企業導入に必要な権限管理、監査ログ、Human in the Loop、個人情報保護、API設計、モジュール境界を設計しています。
+このリポジトリでは、RAGの検索・生成だけでなく、業務導入で問題になりやすい権限管理、監査ログ、Human in the Loop、個人情報保護、API設計、モジュール境界を整理しています。
 
-What this project demonstrates:
+What I organized in this project:
 
 - Enterprise RAG architecture
 - Permission-aware Retrieval
