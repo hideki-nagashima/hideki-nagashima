@@ -81,27 +81,27 @@ What I organized in this project:
 
 ### Enterprise AI Governance
 
-Coming Soon
+Design / Private Work
 
-企業がAIを安全に活用するための、権限管理、監査、承認フロー、データ分類、AIリスク管理の設計に取り組んでいます。
+企業がAIを安全に活用するための、権限管理、監査ログ、承認フロー、データ分類、AIリスク管理の設計に取り組んでいます。公開リポジトリでは、機密情報を含まない範囲で設計思想のみを整理しています。
 
 ### AI Call Center
 
-Coming Soon
+Developed as client / freelance work
 
-問い合わせ対応、営業支援、通話後要約、ナレッジ検索を組み合わせたAIコールセンター基盤を設計しています。
+問い合わせ対応、営業支援、通話後要約、ナレッジ検索を組み合わせたAIコールセンター基盤を業務委託・フリーランス案件として企画・開発しました。実案件に関わるコード、顧客情報、運用データは公開していません。
 
 ### Cold Outreach AI
 
-Coming Soon
+Developed as client / freelance work
 
-営業リスト作成、企業調査、文面生成、送信管理を支援するAIアウトリーチ基盤を設計しています。
+営業リスト作成、企業調査、文面生成、送信管理を支援するAIアウトリーチ基盤を企画・開発しました。実案件に関わるコード、顧客情報、営業ロジックは公開していません。
 
 ### AI SNS Automation
 
-Coming Soon
+Developed as client / freelance work
 
-投稿企画、文章生成、配信計画、反応分析を支援するSNS運用AIの設計に取り組んでいます。
+投稿企画、文章生成、配信計画、反応分析を支援するSNS運用AIを企画・開発しました。公開可能な範囲では、プロダクト設計・AI活用方針のみを記載しています。
 
 ---
 
