@@ -116,12 +116,6 @@ Coming Soon
 
 ---
 
-## GitHub Stats
-
-![Hideki's GitHub stats](https://github-readme-stats.vercel.app/api?username=hideki-nagashima&show_icons=true&hide_title=true&hide_border=true)
-
----
-
 ## Learning
 
 現在は、Enterprise AIを実務で使える形にするために、以下のテーマを継続的に学習・検証しています。
@@ -138,5 +132,4 @@ Coming Soon
 ## Contact
 
 - GitHub: [@hideki-nagashima](https://github.com/hideki-nagashima)
-- LinkedIn:
 - Email: [nagashimahideki59@gmail.com](mailto:nagashimahideki59@gmail.com)
