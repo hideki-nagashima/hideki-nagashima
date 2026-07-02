@@ -1,12 +1,12 @@
-# Hi, I'm Hideki Nagashima
+# Hideki Nagashima
+
+Full-Stack Engineer focused on Enterprise AI, RAG, AI Governance, and Context Engineering.
 
 AIネイティブなフルスタックエンジニアとして、企業の業務にAIをどう組み込み、継続的に使える仕組みにするかを設計・開発しています。
 
 営業、会社経営、資金調達、DX推進、AI SaaS開発を経て、現在は **Enterprise AI / RAG / Context Engineering / AI Governance** を中心に取り組んでいます。
 
-このGitHubは、求人・転職活動向けの個人ポートフォリオとして整理しています。Trust OSの法人アカウントとは切り分け、個人としての設計・開発の考え方が伝わるようにしています。
-
-I design and build enterprise AI systems that connect business context, product execution, and full stack engineering.
+このGitHubは求人・転職活動向けの個人ポートフォリオとして整理しています。Trust OSの法人アカウントとは切り分け、個人としての設計・開発の考え方や成果物をまとめています。
 
 ---
 
